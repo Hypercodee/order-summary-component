@@ -11,11 +11,11 @@
         margin: 0;
         padding:0;
         box-sizing: border-box;
-        font-family: outfit;
+
     }
     body{
         font-size: 16px;
-        font-family:"Red Hat Display", sans-serif;
+        font-family:"Red-Hat-Display", sans-serif;
         background: url(/images/pattern-background-mobile.svg) no-repeat center/cover;
         height: 400px;
 
