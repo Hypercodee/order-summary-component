@@ -15,8 +15,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This is a newbie Html & CSS challenge I took to practice basic frontend skills
 
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ()
+- Live Site URL: (hypercodee-oder-compp.netlify.app)
 
 
 
